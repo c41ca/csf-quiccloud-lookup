@@ -1,5 +1,3 @@
-mkdir quiccloud
-cd quiccloud
 rm -f ips
 rm -f ips.txt
 touch ips.txt

@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /root/quiccloud/
 filename=ips.txt
 LINES=$(cat $filename)
 

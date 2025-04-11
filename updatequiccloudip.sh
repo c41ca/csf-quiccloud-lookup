@@ -1,7 +1,6 @@
-cd /root/
 mkdir quiccloud
 cd quiccloud
-rm -f /root/quiccloud/ips
+rm -f ips
 rm -f ips.txt
 touch ips.txt
 wget https://quic.cloud/ips
